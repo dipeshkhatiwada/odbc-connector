@@ -1,0 +1,23 @@
+{
+    "name": "dipeshkhatiwada/odbc-connector",
+    "description": "ODBC Driver for Laravel 8.* to connect with external database",
+    "type": "project",
+    "require": {
+        "php": "^8.*",
+        "ext-pdo": "*",
+        "ext-odbc": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dipeshkhatiwada\\OdbcConnector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dipesh Khatiwada",
+            "email": "depeshkhatiwada@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
