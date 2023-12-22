@@ -1,7 +1,8 @@
 {
     "name": "dipeshkhatiwada/odbc-connector",
     "description": "ODBC Driver for Laravel 8.* to connect with external database",
-    "type": "project",
+    "type": "library",
+    "homepage": "https://github.com/dipeshkhatiwada/odbc-connector",
     "require": {
         "php": "^8.*",
         "ext-pdo": "*",
