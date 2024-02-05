@@ -4,7 +4,7 @@
     "type": "library",
     "homepage": "https://github.com/dipeshkhatiwada/odbc-connector",
     "require": {
-        "php": "^8.*",
+        "php": "8.*",
         "ext-pdo": "*",
         "ext-odbc": "*"
     },
